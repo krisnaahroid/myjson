@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "id": 0,
+      "text": "Menyapu",
+      "completed": false
+    },
+    {
+      "id": 1,
+      "text": "Menyiram",
+      "completed": true
+    },
+    {
+      "id": 2,
+      "text": "Mandi",
+      "completed": false
+    }
+  ]
+}
